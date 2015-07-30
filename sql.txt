@@ -1,0 +1,8 @@
+Database creation :
+create database spell;
+
+
+Users Table :
+create table users(username varchar(20) NOT NULL,password varchar(20) NOT NULL,PRIMARY KEY(username));
+
+
